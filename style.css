@@ -118,12 +118,13 @@ body {
   }
   .info {
     text-align: left;
+    margin-left: -100px;
   }
-  .heading{
-      margin-bottom: 20px;
+  .heading {
+    margin-bottom: 20px;
   }
-  .btn-register{
-      margin-left: 10%;
+  .btn-register {
+    margin-left: 10%;
   }
   .socials {
     margin-left: 75%;
